@@ -1,1 +1,1 @@
-jdbc programming execise
+jdbc programming exercise
